@@ -9,7 +9,7 @@ GROUP WORK
 
 
 
-## Cloning and Running the Application in local
+
 
 Clone the project into local
 
